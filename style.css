@@ -1,0 +1,55 @@
+body {
+    margin: 0;
+}
+
+#container {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+#ball {
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+#human-paddle {
+    height: 200px;
+    width: 25px;
+    background-color: black;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+#computer-paddle {
+    height: 200px;
+    width: 25px;
+    background-color: black;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+#human-score {
+    font-family: monospace;
+    font-size: 100px;
+    position: absolute;
+    top: 20px;
+    left: 100px;
+    opacity: 0.5;
+}
+
+#computer-score {
+    font-family: monospace;
+    font-size: 100px;
+    position: absolute;
+    top: 20px;
+    right: 100px;
+    opacity: 0.5;
+}
