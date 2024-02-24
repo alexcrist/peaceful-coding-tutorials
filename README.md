@@ -6,7 +6,7 @@
   <p align="center"><b>YouTube channel</b></p>
 </a>
 
+<h2 align="center">Tutorials</h2> 
+<h3 align="center"><a href="./1-pong">1. Pong</a></h3>
 
-## Tutorials
 
-* [1. Pong](./1-pong/)
