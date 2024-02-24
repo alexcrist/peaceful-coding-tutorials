@@ -7,6 +7,5 @@
 </a>
 
 <h2 align="center">Tutorials</h2> 
-<h3 align="center"><a href="./1-pong">1. Pong</a></h3>
-
-
+<h3 align="center"><a href="./1-pong">1. Pong web game from scratch</a></h3>
+<h3 align="center"><a href="./2-snow">2. Snow particles with Three.js</a></h3>
