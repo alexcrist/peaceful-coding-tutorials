@@ -1,3 +1,3 @@
 ## Tutorial video: https://www.youtube.com/watch?v=fQTvYwKP_bQ
 
-## Run the code: https://alexcrist.github.io/peaceful-coding-pong
+## Pong game: https://alexcrist.github.io/peaceful-coding-tutorials/1-pong/index.html
