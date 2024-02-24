@@ -1,3 +1,5 @@
-## Tutorial video: https://www.youtube.com/watch?v=fQTvYwKP_bQ
+# Peaceful Coding Tutorials
 
-## Run the code: https://alexcrist.github.io/peaceful-coding-pong
+https://www.youtube.com/channel/UCxeb3y-U98Km40_xVC3UclA
+
+## [1. Pong](./1-pong/)
