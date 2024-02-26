@@ -1,0 +1,36 @@
+* {
+    font-family: monospace;
+}
+
+.container {
+    border: 1px solid gray;
+    padding: 10px;
+    width: 200px;
+}
+
+.screen {
+    height: 15px;
+    background-color: grey;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    color: white;
+    text-align: right;
+    padding: 5px;
+}
+
+.row {
+    display: flex;
+}
+
+.row div {
+    flex: 1;
+    border: 1px solid grey;
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    cursor: pointer;
+}
+
+.row div:hover {
+    opacity: 0.5;
+}
