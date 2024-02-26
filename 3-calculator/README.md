@@ -2,4 +2,4 @@
 
 ## Tutorial video: 
 
-## Snow particle simulation: https://alexcrist.github.io/peaceful-coding-tutorials/3-calculator/index.html
+## Calculator: https://alexcrist.github.io/peaceful-coding-tutorials/3-calculator/index.html
