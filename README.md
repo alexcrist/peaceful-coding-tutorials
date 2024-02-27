@@ -10,3 +10,4 @@
 <h3 align="center"><a href="./1-pong">1. Web dev: Pong game</a></h3>
 <h3 align="center"><a href="./2-snow">2. Web dev: Snow particles with Three.js</a></h3>
 <h3 align="center"><a href="./3-calculator">3. Web dev: Calculator</a></h3>
+<h3 align="center"><a href="./4-wordle">4. Web dev: Wordle</a></h3>
