@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.container {
+    border: 1px solid black;
+    display: inline-block;
+}
+
+.container > div {
+    display: flex;
+}
+
+.container > div > div {
+    width: 1px;
+    height: 1px;
+}
